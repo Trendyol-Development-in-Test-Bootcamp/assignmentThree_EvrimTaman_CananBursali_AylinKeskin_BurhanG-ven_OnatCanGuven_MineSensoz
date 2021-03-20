@@ -1,2 +1,2 @@
-# assignmentThree_EvrimTaman_CananBursali_AylinKeskin_BurhanG-ven_OnatCanGuven_MineSensoz
-3rd assignment
+# trendyol_helpsupportpage_testing
+This repo includes testing the list of questions under the My Orders container of the Help and Support Page on the trendyol.com site.
